@@ -2,5 +2,24 @@
   "dependencies": {
     "cors": "^2.8.5",
     "mysql": "^2.18.1"
-  }
+  },
+  "name": "tests",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gpdzvapatsva/mysql-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gpdzvapatsva/mysql-nodejs/issues"
+  },
+  "homepage": "https://github.com/gpdzvapatsva/mysql-nodejs#readme",
+  "description": ""
 }
